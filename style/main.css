@@ -1,0 +1,25 @@
+body {
+    background-color: #034c3f;
+    color: #fff;
+}
+
+/* header */
+.header {
+    margin-bottom: 25px;
+    border-bottom: #fff solid 1px;
+}
+
+/* menu */
+
+.menu {
+    margin-top: 15px;
+}
+
+.menu_link {
+    margin-right: 10px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
