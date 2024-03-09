@@ -1,3 +1,7 @@
+@import "./base.css";
+
+
+
 body {
     background-color: #034c3f;
     color: #fff;
@@ -22,4 +26,17 @@ body {
 a {
     color: #fff;
     text-decoration: none;
+}
+
+.game-item {
+    margin-bottom: 10px;
+    border: #ffd700 1px solid;
+}
+
+.ul {
+    list-style-type: square;
+}
+
+.li {
+    list-style-type: none;
 }
